@@ -31,9 +31,9 @@ import requests
 
 
 # Assuming necessary imports and environment setup as in your initial script
-os.environ["OPENAI_API_KEY"] = "sk-proj-sLnQKnmXnD6Wp3aTpDqkT3BlbkFJDZKkyqFpeMNQdraHLH8d"
-os.environ['TAVILY_API_KEY'] ="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"
-os.environ['SERPAPI_API_KEY'] ="2f6cda02b12ababf9315904ec550440ab79c28fc4a467bc14e5ee98c258a88e4"
+os.environ["OPENAI_API_KEY"] = "sk-proj-**********************************"
+os.environ['TAVILY_API_KEY'] ="tvly-*****************************"
+os.environ['SERPAPI_API_KEY'] ="*****************************************"
 
 llm = ChatOpenAI(model="gpt-4-turbo-preview")
 
