@@ -26,12 +26,12 @@ from langchain_core.tools import tool
 import requests
 
 # Assuming necessary imports and environment setup as in your initial script
-os.environ["OPENAI_API_KEY"] = "sk-proj-sLnQKnmXnD6Wp3aTpDqkT3BlbkFJDZKkyqFpeMNQdraHLH8d"
+os.environ["OPENAI_API_KEY"] = "sk-proj-********************************"
 #os.environ["OPENAI_API_KEY"] = "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"
 
 # os.environ['TAVILY_API_KEY'] ="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"
-os.environ['TAVILY_API_KEY']="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"
-os.environ['SERPAPI_API_KEY'] ="2f6cda02b12ababf9315904ec550440ab79c28fc4a467bc14e5ee98c258a88e4"
+os.environ['TAVILY_API_KEY']="tvly-****************************"
+os.environ['SERPAPI_API_KEY'] ="************************************"
 #os.environ["LANGCHAIN_API_KEY"] = "ls__66140278b9c44003890a3aa152caf849"
 #os.environ["LANGCHAIN_TRACING_V2"] = "true"
 #os.environ["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com"
